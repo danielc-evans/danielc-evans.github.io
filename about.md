@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a 2nd year student at the University of East Anglia studying a degree in Business Information Systems. 
+I am a 2nd year student studying for a degree in Business Information Systems. 
 
 I aspire to work in cyber security going into the future, with interests in forensics, penetration testing, ethical hacking, networks. 
 

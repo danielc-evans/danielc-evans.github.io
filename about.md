@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a 2nd year student studying for a degree in Business Information Systems. 
 
-I aspire to work in cyber security going into the future, with interests in forensics, penetration testing, ethical hacking, networks. 
+I aspire to work in cyber security going into the future - with interests in forensics, penetration testing, ethical hacking and networks. 
 
 I created this blog as a way of contributing my thoughts to the information security community. 
 

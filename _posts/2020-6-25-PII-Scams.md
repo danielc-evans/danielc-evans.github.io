@@ -19,6 +19,8 @@ But how can we spot if it is fake?
 3. The post explaining what you need to do to claim your prize will mention multiple winners. Think back to the legitimate competition, did it mention multiple winners? If the prize is substantial, there is unlikely to be multiple winners, especially if the company doing the competition is small. 
 4. They will ask you to like and share their post and fill in your personal details with a suspicious link. If you won, why would you need to like and share their post as well. It is also likely they would send you a private message, phone or email to get in contact and not request a form to be filled as the winner. 
 
+How can you take action as a user? Make sure you report these fake accounts and let the legitimate business know they are being targeted by a scammer. At a time of increased uncertainty, it is ever more important we support businesses in any way we can. 
+
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 

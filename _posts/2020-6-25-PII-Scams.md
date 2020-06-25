@@ -4,9 +4,9 @@ title: PII Scams Are Changing
 ---
 PII (Personally Identifiable Information) refers to any data that can identify a specific person, such as addresses, phone numbers and Date of Birth. 
 
-For a while now they have been a problem on social media platforms such as Facebook and Instagram, where it is very easy to trick an individual into giving away their personal information. 
+For a while now they have been a problem on social media platforms, where it is very easy to trick an individual into giving away their personal information. 
 
-Users will create Facebook pages pretending to be another business or just a make/model of a product (e.g. a car), and will suck you in by creating a fake competition. These fake competitions often ask you to complete a survey to enter in for a draw to win a prize, or will pretend that a draw took place, but because the "winner" did not respond in time you can now be in with a chance of winning by liking, commenting and or sharing the post. 
+Users will create pages (often on Facebook) pretending to be another business or just a make/model of a product (e.g. a car), and will suck you in by creating a fake competition. These fake competitions often ask you to complete a survey to enter in for a draw to win a prize, or will pretend that a draw took place, but because the "winner" did not respond in time you can now be in with a chance of winning by liking, commenting and or sharing the post. 
 
 However, I have recently noticed a trend where the scams are changing. As more and more users watch out for these scams and report them, scammers are looking to change how they dupe you into giving away your personal information. 
 

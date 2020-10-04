@@ -16,4 +16,4 @@ Outside of university studies, I like to get involved with the local tech commun
 
 ### Contact me
 
-[danevans77@gmail.com](mailto:email@domain.com)
+[xzz18qtu@uea.ac.uk](mailto:email@domain.com)
